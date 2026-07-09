@@ -19,8 +19,24 @@ Computer Science undergraduate (Class of 2028) who builds complete, production-s
 
 - ⚙️ REST APIs tested in **Postman**, deployed via **Vercel + Render**, managed through GitHub **Issues & PRs**
 - 🌱 Currently deepening focus on **system design and DevOps**
+- 🧭 Exploring **AI engineering** as a possible specialization alongside backend
 - 📜 Oracle Certified Foundations Associate (AI Foundations) · J.P. Morgan Software Engineering Job Simulation
 - 📫 **contact@hanzalah.in**
+
+<br/>
+
+### 🧠 How I Build
+
+```
+1. Learn the concept
+2. Build something real with it
+3. Hit an actual problem
+4. Read the docs — not just the first Stack Overflow answer
+5. Understand why it broke
+6. Improve the project, repeat
+```
+
+I'd rather understand *why* an architecture works than memorize *how* to copy it — official documentation over shortcuts, always.
 
 <br/>
 
@@ -41,7 +57,7 @@ Real-time chat application — Socket.IO messaging, live typing indicators, pres
 `React` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT`
 
 **[Resume-Gen-AI-Platform](https://github.com/Hanzalah-m/Resume-Gen-AI-Platform)**
-AI-powered resume & interview report generator — REST endpoints tested in Postman, deployed on Vercel + Render with a continuous deployment workflow.
+AI-powered resume & interview report generator — REST endpoints tested in Postman, deployed on Vercel + Render with a continuous deployment workflow, developed collaboratively via GitHub Issues & PRs.
 `MERN Stack` `Google GenAI API` `Puppeteer` `Postman` `Vercel` `Render`
 
 **[MovieWatchList](https://github.com/Hanzalah-m/MovieWatchList)**
@@ -52,7 +68,19 @@ React app for searching, filtering, and tracking movies with a personal watchlis
 Patient/doctor/employee management system built on a normalized relational schema.
 `Python` `MySQL`
 
-<sub>More repositories → [github.com/Hanzalah-m?tab=repositories](https://github.com/Hanzalah-m?tab=repositories)</sub>
+**[MyPYQ_Repo](https://github.com/Hanzalah-m/MyPYQ_Repo)**
+Centralized platform for uploading, organizing, and searching previous-year university examination papers.
+`JavaScript` `MongoDB`
+
+**[backend-engineering](https://github.com/Hanzalah-m/backend-engineering)**
+Practice repository for backend fundamentals — API design, authentication patterns, and system design basics.
+`Java` `Node.js`
+
+<br/>
+
+### 🎯 What I'm Working Toward
+
+Backend engineering is where I want to go deep — designing systems that hold up at real scale, not just demo scale. Right now that means strengthening system design, cloud infrastructure, and DevOps, while keeping AI engineering on the table as I figure out my long-term specialization. The goal isn't a job title — it's becoming an engineer whose work justifies a seat at a team known for strong engineering standards.
 
 <br/>
 
@@ -63,8 +91,6 @@ Patient/doctor/employee management system built on a normalized relational schem
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzalah-m&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" width="35%" />
 </div>
 
-<sub><i>If these two cards don't load on first visit, refresh — GitHub's stats API is a shared public service and occasionally rate-limits.</i></sub>
-
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0D1117&height=120&section=footer" width="100%"/>
