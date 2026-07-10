@@ -8,8 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mohammad-hanzalah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:contact@hanzalah.in"><img src="https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:hanzalaaah@gmail.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://hanzalah.in"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Hanzalah-m&style=flat-square&color=6c63ff&label=views" />
 
@@ -23,22 +22,7 @@ Computer Science undergraduate (Class of 2028) who builds complete, production-s
 - 🌱 Currently deepening focus on **system design and DevOps**
 - 🧭 Exploring **AI engineering** as a possible specialization alongside backend
 - 📜 Oracle Certified Foundations Associate (AI Foundations) · J.P. Morgan Software Engineering Job Simulation
-- 📫 **contact@hanzalah.in**
-
-<br/>
-
-### 🧠 How I Build
-
-```
-1. Learn the concept
-2. Build something real with it
-3. Hit an actual problem
-4. Read the docs — not just the first Stack Overflow answer
-5. Understand why it broke
-6. Improve the project, repeat
-```
-
-I'd rather understand *why* an architecture works than memorize *how* to copy it — official documentation over shortcuts, always.
+- 📫 **hanzalaaah@gmail.com**
 
 <br/>
 
