@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6C63FF&height=190&section=header&text=Mohammad%20Hanzalah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full-Stack%20Developer%20%C2%B7%20Java%20%26%20MERN&descAlignY=58&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Java+%7C+Node.js+%7C+React+%7C+MongoDB;Building+%26+Deploying+Production-Style+Apps;Exploring+AI+Engineering+%26+DevOps" />
 
@@ -85,8 +84,6 @@ Backend engineering is where I want to go deep — designing systems that hold u
 <br/>
 
 ### 📊 GitHub Stats
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hanzalah-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzalah-m&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
 
 <br/><br/>
 
