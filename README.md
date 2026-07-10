@@ -9,7 +9,7 @@
 <br/>
 
 <a href="mailto:hanzalaaah@gmail.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://hanzalah.in"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white" /></a>
+
 <img src="https://komarev.com/ghpvc/?username=Hanzalah-m&style=flat-square&color=6c63ff&label=views" />
 
 </div>
