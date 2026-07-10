@@ -85,10 +85,17 @@ Backend engineering is where I want to go deep — designing systems that hold u
 <br/>
 
 ### 📊 GitHub Stats
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hanzalah-m&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzalah-m&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" width="35%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hanzalah-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzalah-m&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+
+<br/><br/>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=Hanzalah-m&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hanzalah-m&theme=tokyo-night&hide_border=true"/>
+
 </div>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0D1117&height=120&section=footer" width="100%"/>
